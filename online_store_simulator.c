@@ -47,9 +47,11 @@ int main(void) {
         switch (itemInput[0]) {
             case 's':
                 if (strcmp(itemInput, "shirt") == 0) {
-                    printf("Enter the quantity of %ss needed: Clothing item '%s' successfully added to your cart.\n", itemInput, itemInput);
+                    printf("Enter the quantity of %ss needed: ", itemInput);
                     scanf("%d", &quantity);
                     shirtQuantity += quantity;
+
+                    printf("Clothing item '%s' successfully added to your cart.\n", itemInput);
                 
                 } else if (strcmp(itemInput, "shoes") == 0) {
                     printf("Enter the quantity of %s needed: Clothing item '%s' successfully added to your cart.\n", itemInput, itemInput);
