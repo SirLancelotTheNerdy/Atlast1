@@ -47,12 +47,12 @@ int main(void) {
         switch (itemInput[0]) {
             case 's':
                 if (strcmp(itemInput, "shirt") == 0) {
-                    printf("Enter the quantity of %ss needed: Clothing item '%s' successfully added to your cart. ", itemInput, itemInput);
+                    printf("Enter the quantity of %ss needed: Clothing item '%s' successfully added to your cart.\n", itemInput, itemInput);
                     scanf("%d", &quantity);
                     shirtQuantity += quantity;
                 
                 } else if (strcmp(itemInput, "shoes") == 0) {
-                    printf("Enter the quantity of %s needed: Clothing item '%s' successfully added to your cart. ", itemInput, itemInput);
+                    printf("Enter the quantity of %s needed: Clothing item '%s' successfully added to your cart.\n", itemInput, itemInput);
                     scanf("%d", &quantity);
                     shoeQuantity += quantity;
                 
@@ -62,7 +62,7 @@ int main(void) {
                 break;
             case 'p':
                 if (strcmp(itemInput, "pants") == 0) {
-                printf("Enter the quantity of %s needed: Clothing item '%s' successfully added to your cart. ", itemInput, itemInput);
+                printf("Enter the quantity of %s needed: Clothing item '%s' successfully added to your cart.\n", itemInput, itemInput);
                 scanf("%d", &quantity);
                     pantsQuantity += quantity;
             
@@ -77,13 +77,14 @@ int main(void) {
     
     
         
-    } while (1);
-
+    }
+     while (1); 
+       
     /*Calculate total item cost*/
     totalCost = (shirtQuantity * SHIRT_PRICE) + (shoeQuantity * SHOE_PRICE) + (pantsQuantity * PANTS_PRICE);
 
     /*Shipping selection*/
-    printf("\nEnter your shipping destination (USA, Mexico, Canada):\n");
+    printf("\nEnter the shipping destination (USA, Mexico, Canada):");
     scanf("%s", countryInput);
     for(int i = 0; countryInput[i]; i++) countryInput[i] = tolower(countryInput[i]);  // Convert to lowercase
 
@@ -93,7 +94,7 @@ int main(void) {
             if (strcmp(countryInput, "usa") == 0) {
                 taxRate = USA_TAX_RATE;
             } else {
-                printf("Invalid country. Defaulting to USA.\n");
+                printf("Invalid country. Defaulting to USA standard shipping.\n");
                 taxRate = USA_TAX_RATE;
             }
             break;
@@ -101,7 +102,7 @@ int main(void) {
             if (strcmp(countryInput, "mexico") == 0) {
                 taxRate = MEXICO_TAX_RATE;
             } else {
-                printf("Invalid country. Defaulting to USA.\n");
+                printf("Invalid country. Defaulting to USA standard shipping.\n");
                 taxRate = USA_TAX_RATE;
             }
             break;
@@ -109,17 +110,17 @@ int main(void) {
             if (strcmp(countryInput, "canada") == 0) {
                 taxRate = CANADA_TAX_RATE;
             } else {
-                printf("Invalid country. Defaulting to USA.\n");
+                printf("Invalid country. Defaulting to USA standard shipping.\n");
                 taxRate = USA_TAX_RATE;
             }
             break;
         default:
-            printf("Invalid country. Defaulting to USA.\n");
+            printf("Invalid country. Defaulting to USA standard shipping.\n");
             taxRate = USA_TAX_RATE;
     }
 
     /*Shipping method selection*/
-    printf("\nEnter your shipping method (standard or expedited):\n");
+    printf(" Enter the shipping method (standard, expedited):\n");
     scanf("%s", shippingInput);
     for(int i = 0; shippingInput[i]; i++) shippingInput[i] = tolower(shippingInput[i]);
 
@@ -150,6 +151,7 @@ int main(void) {
             printf("Invalid shipping method. Defaulting to standard.\n");
             shippingCost = USA_STANDARD_SHIPPING;
     }
+       
 
     /*Calculate tax amount*/
     taxAmount = totalCost * taxRate;
