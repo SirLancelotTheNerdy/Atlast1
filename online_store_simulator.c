@@ -54,20 +54,20 @@ int main(void) {
                     printf("Clothing item '%s' successfully added to your cart.\n", itemInput);
                 
                 } else if (strcmp(itemInput, "shoes") == 0) {
-                    printf("Enter the quantity of %s needed: Clothing item '%s' successfully added to your cart.\n", itemInput, itemInput);
+                    printf("Enter the quantity of %s needed: " ,itemInput);
                     scanf("%d", &quantity);
                     shoeQuantity += quantity;
-                
+                    printf("Clothing item '%s' successfully added to your cart.\n", itemInput,)
                 } else {
                     printf("Invalid item. Please enter 'shirt', 'shoes', or 'pants'.\n");
                 }
                 break;
             case 'p':
                 if (strcmp(itemInput, "pants") == 0) {
-                printf("Enter the quantity of %s needed: Clothing item '%s' successfully added to your cart.\n", itemInput, itemInput);
+                printf("Enter the quantity of %s needed: ", itemInput);
                 scanf("%d", &quantity);
                     pantsQuantity += quantity;
-            
+                    printf("Clothing item '%s' successfully added to your cart.\n", itemInput,)
                 } else {
                     printf("Invalid clothing type. Please enter 'shirt', 'shoes', or 'pants'.\n");
                 }
