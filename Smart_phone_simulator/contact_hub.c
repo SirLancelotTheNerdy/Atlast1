@@ -32,7 +32,7 @@ int main() {
     num_contacts = load_contacts(contacts, "phone_contacts.csv");
 
     // If file could not be opened or loaded, show an error message
-    if (num_contacts == -1) {
+    if (num_contacts == NULL) {
         printf("Error opening phone contacts file.\n");
         return 1;
     }
@@ -117,7 +117,7 @@ void select_contact(Contact contacts[], int num_contacts) {
         return;
     }
 
-    Contact selected_contact = contacts[index - 1];
+    Contact selected_contact = contacts[index -1];
     printf("\nSelected Contact:\n");
     printf("Name: %s\nPhone: %s\nEmail: %s\n", 
            selected_contact.name, selected_contact.phone, selected_contact.email);
