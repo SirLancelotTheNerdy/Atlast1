@@ -118,6 +118,7 @@ void list_contacts(Contact contacts[], int num_contacts) {
 
     printf("\nPhone Contacts:\n");
     for (int i = 0; i < num_contacts; i++) {
+        printf("%d , %d", num_contacts, i);
         printf("%d. Name: %s\n   Phone: %s\n   Email: %s\n",
                i + 1, contacts[i].name, contacts[i].phone, contacts[i].email);
     }
