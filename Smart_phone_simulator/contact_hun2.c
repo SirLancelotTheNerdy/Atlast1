@@ -83,7 +83,7 @@ int load_contacts(Contact contacts[], const char *filename) {
             strncpy(contacts[i].name, token, MAX_CONTACT_NAME_LENGTH);
             contacts[i].name[MAX_CONTACT_NAME_LENGTH - 1] = '\0';  // Ensure null-terminated
         }
-        printf("%c",contacts[i]);
+        printf("%d",contacts[i].name);
 
         token = strtok(NULL, ",");
         if (token != NULL) {
