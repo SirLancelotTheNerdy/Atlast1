@@ -30,7 +30,7 @@ int main() {
 
     // Load contacts from the CSV file
     num_contacts = load_contacts(contacts, "phone_contacts.csv");
-
+    printf("%d", num_contacts);
     // If file could not be opened or loaded, show an error message
     if (num_contacts == 0) {
         printf("Error opening phone contacts file.\n");
@@ -77,10 +77,13 @@ int load_contacts(Contact contacts[], const char *filename) {
         line[strcspn(line, "\n")] = 0;
 
         char *token = strtok(line, ",");
+        printf("THIS IS A LINE");
+        printf("%c", line);
         if (token != NULL) {
             strncpy(contacts[i].name, token, MAX_CONTACT_NAME_LENGTH);
             contacts[i].name[MAX_CONTACT_NAME_LENGTH - 1] = '\0';  // Ensure null-terminated
         }
+        printf("%c",contacts[i]);
 
         token = strtok(NULL, ",");
         if (token != NULL) {
@@ -117,6 +120,7 @@ void list_contacts(Contact contacts[], int num_contacts) {
     }
 
     printf("\nPhone Contacts:\n");
+    printf("%d", num_contacts);
     for (int i = 0; i < num_contacts; i++) {
         printf("%d , %d", num_contacts, i);
         printf("%d. Name: %s\n   Phone: %s\n   Email: %s\n",
