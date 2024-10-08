@@ -13,7 +13,7 @@ void displayMenu() {
     printf("3. End a locker rental\n");
     printf("4. List all locker contents\n");
     printf("5. Quit\n");
-    printf("Enter your choice (1-5): ");
+    printf("Enter your menu_choice (1-5): ");
 }
 
 // Function to view the contents of a specific locker
