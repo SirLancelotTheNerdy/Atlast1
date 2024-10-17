@@ -1,0 +1,15 @@
+C:\Users\lance\Atlas T1.1\Atlast1\sales_tax_calc\sales_tax_calc.cs\bin\Debug\net9.0\sales_tax_calc.cs.exe
+C:\Users\lance\Atlas T1.1\Atlast1\sales_tax_calc\sales_tax_calc.cs\bin\Debug\net9.0\sales_tax_calc.cs.deps.json
+C:\Users\lance\Atlas T1.1\Atlast1\sales_tax_calc\sales_tax_calc.cs\bin\Debug\net9.0\sales_tax_calc.cs.runtimeconfig.json
+C:\Users\lance\Atlas T1.1\Atlast1\sales_tax_calc\sales_tax_calc.cs\bin\Debug\net9.0\sales_tax_calc.cs.dll
+C:\Users\lance\Atlas T1.1\Atlast1\sales_tax_calc\sales_tax_calc.cs\bin\Debug\net9.0\sales_tax_calc.cs.pdb
+C:\Users\lance\Atlas T1.1\Atlast1\sales_tax_calc\sales_tax_calc.cs\obj\Debug\net9.0\sales_tax_calc.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lance\Atlas T1.1\Atlast1\sales_tax_calc\sales_tax_calc.cs\obj\Debug\net9.0\sales_tax_calc.cs.AssemblyInfoInputs.cache
+C:\Users\lance\Atlas T1.1\Atlast1\sales_tax_calc\sales_tax_calc.cs\obj\Debug\net9.0\sales_tax_calc.cs.AssemblyInfo.cs
+C:\Users\lance\Atlas T1.1\Atlast1\sales_tax_calc\sales_tax_calc.cs\obj\Debug\net9.0\sales_tax_calc.cs.csproj.CoreCompileInputs.cache
+C:\Users\lance\Atlas T1.1\Atlast1\sales_tax_calc\sales_tax_calc.cs\obj\Debug\net9.0\sales_tax_calc.cs.sourcelink.json
+C:\Users\lance\Atlas T1.1\Atlast1\sales_tax_calc\sales_tax_calc.cs\obj\Debug\net9.0\sales_tax_calc.cs.dll
+C:\Users\lance\Atlas T1.1\Atlast1\sales_tax_calc\sales_tax_calc.cs\obj\Debug\net9.0\refint\sales_tax_calc.cs.dll
+C:\Users\lance\Atlas T1.1\Atlast1\sales_tax_calc\sales_tax_calc.cs\obj\Debug\net9.0\sales_tax_calc.cs.pdb
+C:\Users\lance\Atlas T1.1\Atlast1\sales_tax_calc\sales_tax_calc.cs\obj\Debug\net9.0\sales_tax_calc.cs.genruntimeconfig.cache
+C:\Users\lance\Atlas T1.1\Atlast1\sales_tax_calc\sales_tax_calc.cs\obj\Debug\net9.0\ref\sales_tax_calc.cs.dll

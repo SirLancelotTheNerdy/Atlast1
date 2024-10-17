@@ -1,0 +1,15 @@
+C:\Users\lance\Atlas T1.1\Atlast1\http_status\obj\Debug\net9.0\http_status.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lance\Atlas T1.1\Atlast1\http_status\obj\Debug\net9.0\http_status.AssemblyInfoInputs.cache
+C:\Users\lance\Atlas T1.1\Atlast1\http_status\obj\Debug\net9.0\http_status.AssemblyInfo.cs
+C:\Users\lance\Atlas T1.1\Atlast1\http_status\obj\Debug\net9.0\http_status.csproj.CoreCompileInputs.cache
+C:\Users\lance\Atlas T1.1\Atlast1\http_status\obj\Debug\net9.0\http_status.sourcelink.json
+C:\Users\lance\Atlas T1.1\Atlast1\http_status\bin\Debug\net9.0\http_status.exe
+C:\Users\lance\Atlas T1.1\Atlast1\http_status\bin\Debug\net9.0\http_status.deps.json
+C:\Users\lance\Atlas T1.1\Atlast1\http_status\bin\Debug\net9.0\http_status.runtimeconfig.json
+C:\Users\lance\Atlas T1.1\Atlast1\http_status\bin\Debug\net9.0\http_status.dll
+C:\Users\lance\Atlas T1.1\Atlast1\http_status\bin\Debug\net9.0\http_status.pdb
+C:\Users\lance\Atlas T1.1\Atlast1\http_status\obj\Debug\net9.0\http_status.dll
+C:\Users\lance\Atlas T1.1\Atlast1\http_status\obj\Debug\net9.0\refint\http_status.dll
+C:\Users\lance\Atlas T1.1\Atlast1\http_status\obj\Debug\net9.0\http_status.pdb
+C:\Users\lance\Atlas T1.1\Atlast1\http_status\obj\Debug\net9.0\http_status.genruntimeconfig.cache
+C:\Users\lance\Atlas T1.1\Atlast1\http_status\obj\Debug\net9.0\ref\http_status.dll
