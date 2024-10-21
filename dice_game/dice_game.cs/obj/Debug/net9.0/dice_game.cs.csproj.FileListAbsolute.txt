@@ -1,0 +1,15 @@
+C:\Users\lance\Atlas T1.1\Atlast1\dice_game\dice_game.cs\bin\Debug\net9.0\dice_game.cs.exe
+C:\Users\lance\Atlas T1.1\Atlast1\dice_game\dice_game.cs\bin\Debug\net9.0\dice_game.cs.deps.json
+C:\Users\lance\Atlas T1.1\Atlast1\dice_game\dice_game.cs\bin\Debug\net9.0\dice_game.cs.runtimeconfig.json
+C:\Users\lance\Atlas T1.1\Atlast1\dice_game\dice_game.cs\bin\Debug\net9.0\dice_game.cs.dll
+C:\Users\lance\Atlas T1.1\Atlast1\dice_game\dice_game.cs\bin\Debug\net9.0\dice_game.cs.pdb
+C:\Users\lance\Atlas T1.1\Atlast1\dice_game\dice_game.cs\obj\Debug\net9.0\dice_game.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lance\Atlas T1.1\Atlast1\dice_game\dice_game.cs\obj\Debug\net9.0\dice_game.cs.AssemblyInfoInputs.cache
+C:\Users\lance\Atlas T1.1\Atlast1\dice_game\dice_game.cs\obj\Debug\net9.0\dice_game.cs.AssemblyInfo.cs
+C:\Users\lance\Atlas T1.1\Atlast1\dice_game\dice_game.cs\obj\Debug\net9.0\dice_game.cs.csproj.CoreCompileInputs.cache
+C:\Users\lance\Atlas T1.1\Atlast1\dice_game\dice_game.cs\obj\Debug\net9.0\dice_game.cs.sourcelink.json
+C:\Users\lance\Atlas T1.1\Atlast1\dice_game\dice_game.cs\obj\Debug\net9.0\dice_game.cs.dll
+C:\Users\lance\Atlas T1.1\Atlast1\dice_game\dice_game.cs\obj\Debug\net9.0\refint\dice_game.cs.dll
+C:\Users\lance\Atlas T1.1\Atlast1\dice_game\dice_game.cs\obj\Debug\net9.0\dice_game.cs.pdb
+C:\Users\lance\Atlas T1.1\Atlast1\dice_game\dice_game.cs\obj\Debug\net9.0\dice_game.cs.genruntimeconfig.cache
+C:\Users\lance\Atlas T1.1\Atlast1\dice_game\dice_game.cs\obj\Debug\net9.0\ref\dice_game.cs.dll
