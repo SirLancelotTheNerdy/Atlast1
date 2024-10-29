@@ -1,0 +1,15 @@
+C:\Users\lance\Atlas T1.1\Atlast1\intro_c#\rpg.cs\obj\Debug\net9.0\rpg.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lance\Atlas T1.1\Atlast1\intro_c#\rpg.cs\obj\Debug\net9.0\rpg.cs.AssemblyInfoInputs.cache
+C:\Users\lance\Atlas T1.1\Atlast1\intro_c#\rpg.cs\obj\Debug\net9.0\rpg.cs.AssemblyInfo.cs
+C:\Users\lance\Atlas T1.1\Atlast1\intro_c#\rpg.cs\obj\Debug\net9.0\rpg.cs.csproj.CoreCompileInputs.cache
+C:\Users\lance\Atlas T1.1\Atlast1\intro_c#\rpg.cs\obj\Debug\net9.0\rpg.cs.sourcelink.json
+C:\Users\lance\Atlas T1.1\Atlast1\intro_c#\rpg.cs\bin\Debug\net9.0\rpg.cs.exe
+C:\Users\lance\Atlas T1.1\Atlast1\intro_c#\rpg.cs\bin\Debug\net9.0\rpg.cs.deps.json
+C:\Users\lance\Atlas T1.1\Atlast1\intro_c#\rpg.cs\bin\Debug\net9.0\rpg.cs.runtimeconfig.json
+C:\Users\lance\Atlas T1.1\Atlast1\intro_c#\rpg.cs\bin\Debug\net9.0\rpg.cs.dll
+C:\Users\lance\Atlas T1.1\Atlast1\intro_c#\rpg.cs\bin\Debug\net9.0\rpg.cs.pdb
+C:\Users\lance\Atlas T1.1\Atlast1\intro_c#\rpg.cs\obj\Debug\net9.0\rpg.cs.dll
+C:\Users\lance\Atlas T1.1\Atlast1\intro_c#\rpg.cs\obj\Debug\net9.0\refint\rpg.cs.dll
+C:\Users\lance\Atlas T1.1\Atlast1\intro_c#\rpg.cs\obj\Debug\net9.0\rpg.cs.pdb
+C:\Users\lance\Atlas T1.1\Atlast1\intro_c#\rpg.cs\obj\Debug\net9.0\rpg.cs.genruntimeconfig.cache
+C:\Users\lance\Atlas T1.1\Atlast1\intro_c#\rpg.cs\obj\Debug\net9.0\ref\rpg.cs.dll

@@ -25,8 +25,11 @@ class DiceGame
                 RollSpecificDice(diceRolls, diceToReroll, random);
                 rerollCount++;
             }
-            
-            Console.Clear();
+            else
+            {
+                break;
+            }
+            Console.Clear(); 
             DisplayRolls(diceRolls, "Updated Rolls:");
         }
 
