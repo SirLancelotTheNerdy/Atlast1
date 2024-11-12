@@ -1,0 +1,5 @@
+C:\Users\lance\Atlas T1.1\Atlast1\RpgSim\Atlas.RPG.cs\obj\Debug\net9.0\Atlas.RPG.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lance\Atlas T1.1\Atlast1\RpgSim\Atlas.RPG.cs\obj\Debug\net9.0\Atlas.RPG.cs.AssemblyInfoInputs.cache
+C:\Users\lance\Atlas T1.1\Atlast1\RpgSim\Atlas.RPG.cs\obj\Debug\net9.0\Atlas.RPG.cs.AssemblyInfo.cs
+C:\Users\lance\Atlas T1.1\Atlast1\RpgSim\Atlas.RPG.cs\obj\Debug\net9.0\Atlas.RPG.cs.csproj.CoreCompileInputs.cache
+C:\Users\lance\Atlas T1.1\Atlast1\RpgSim\Atlas.RPG.cs\obj\Debug\net9.0\Atlas.RPG.cs.sourcelink.json

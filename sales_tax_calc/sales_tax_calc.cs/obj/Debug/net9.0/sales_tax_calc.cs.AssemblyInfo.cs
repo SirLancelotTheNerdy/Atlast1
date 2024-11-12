@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("sales_tax_calc.cs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+936b403fd682ed0d7299f1ca046668b6c97735f6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a239baaf6056dfb2dc1b57648d5e7674f9d736af")]
 [assembly: System.Reflection.AssemblyProductAttribute("sales_tax_calc.cs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("sales_tax_calc.cs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
